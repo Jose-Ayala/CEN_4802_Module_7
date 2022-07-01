@@ -41,7 +41,7 @@ public class DaysOfTheWeek {
 			dayOfWeek = "Friday";
 			break;
 		case 7:
-			dayOfWeek = "Saturdy";
+			dayOfWeek = "Saturday";
 			break;
 		default:
 			dayOfWeek = "You entered an invalid number";
